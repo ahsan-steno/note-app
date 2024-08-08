@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86213463067",
+    "project_id": "ahsan-f81b8",
+    "storage_bucket": "ahsan-f81b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86213463067:android:08d38447f326735e413cbe",
+        "android_client_info": {
+          "package_name": "com.ahsant.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBT5rO03OcjzxXFei2fGAjb1GzLhn2oNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
